@@ -1,0 +1,6 @@
+{
+    "name": "YouTube Playlist Downloader",
+    "short_name": "YT Downloader",
+    "start_url": ".",
+    "display": "standalone"
+  }
